@@ -27,7 +27,6 @@ export default function Navbar() {
     { name: `BLOG'S`, link: "/" },
     { name: "CONTACT", link: "/" },
   ];
-
   return (
     <>
       <div className="shadow-md w-screen fixed top-0 left-0">
